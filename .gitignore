@@ -1,0 +1,8 @@
+
+/logs
+/.ipynb_checkpoints
+/Include
+/Scripts
+/Lib
+/share
+pyvenv.cfg
